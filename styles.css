@@ -1,0 +1,55 @@
+body {  
+    font-family: Arial, sans-serif;    line-height: 1.6;  
+    margin: 0;  
+    padding: 0;  
+  }  
+    .nav ul {  
+    list-style-type: none;  
+    padding: 0;  
+  }  
+    
+   .nav__link:hover {  
+    color: red;  
+  }  
+  .content {  
+    padding: 20px;  
+  }  
+    
+  .footer {  
+    background-color: #2ac832;  
+    color: #0ff01e;  
+    text-align: center;  
+    padding: 10px 0;  
+  } 
+  #special {
+    color: gold; 
+  }
+  .header__menu-link:hover {
+    color: red  ;
+    text-decoration:underline;
+  }
+ h2 {
+  color: green;
+} 
+h3 {
+  color: rgb(14, 6, 131);
+} 
+#paragraph {
+  background-color:rgb(223, 209, 16)
+}
+.border {
+  border: 1px solid red;
+    padding: 30px;
+}
+.element {
+  background-color: red;
+}
+.nav__link::after {       
+  content: 
+  color #000;
+  ]
+}
+.element {
+  background-image:
+  url (fon.jpg);c:/Users/Ноутбук.Documents/GitHub/styled-webpage
+}
